@@ -18,35 +18,38 @@ Sou **Analista de Dados** com background em **Ciências da Computação** e expe
 ---
 
   
+
+
 ## 🛠️ Ferramentas & Tecnologias
 
 <div style="display: flex; flex-wrap: wrap;" align="left">
 
 <!-- Python -->
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 
 <!-- Power BI -->
-<img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"/>
+<img height="50" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
 
 <!-- SQL / PostgreSQL -->
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
 
-<!-- Redshift -->
-<img height="50" src="https://www.vectorlogo.zone/logos/amazon_redshift/amazon_redshift-icon.svg"/>
+<!-- AWS Redshift -->
+<img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonredshift.svg"/>
 
 <!-- Excel -->
-<img height="50" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg"/>
+<img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg"/>
 
 <!-- Power Automate -->
-<img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerautomate/microsoft_powerautomate-icon.svg"/>
+<img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftpowerautomate.svg"/>
 
 <!-- Databricks -->
-<img height="50" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg"/>
+<img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg"/>
 
 <!-- KNIME -->
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/04/KNIME_logo.svg"/>
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/KNIME_logo.svg/512px-KNIME_logo.svg.png"/>
 
 </div>
+
 
 
 </div>
