@@ -34,21 +34,22 @@ Sou **Analista de Dados** com background em **Ciências da Computação** e expe
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
 
 <!-- Amazon Redshift -->
-<img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/amazonredshift.svg"/>
+<img height="50" src="https://raw.githubusercontent.com/ThyLeader/Logos/main/amazon-redshift.png"/>
 
-<!-- Excel (PNG para evitar erro) -->
-<img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/microsoftexcel.svg"/>
+<!-- Excel -->
+<img height="50" src="https://raw.githubusercontent.com/ThyLeader/Logos/main/microsoft-excel.png"/>
 
-<!-- Power Automate (PNG também funciona perfeitamente) -->
-<img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/microsoftpowerautomate.svg"/>
+<!-- Power Automate -->
+<img height="50" src="https://raw.githubusercontent.com/ThyLeader/Logos/main/power-automate.png"/>
 
-<!-- Databricks (SVG oficial e estável) -->
-<img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/databricks.svg"/>
+<!-- Databricks -->
+<img height="50" src="https://raw.githubusercontent.com/ThyLeader/Logos/main/databricks.png"/>
 
 <!-- KNIME -->
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/KNIME_logo.svg/512px-KNIME_logo.svg.png"/>
 
 </div>
+
 
 
 
