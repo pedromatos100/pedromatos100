@@ -33,9 +33,6 @@ Sou **Analista de Dados** com background em **Ciências da Computação** e expe
 
 </div>
 
----
-
-
 
 ---
 
