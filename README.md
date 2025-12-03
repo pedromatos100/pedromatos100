@@ -59,7 +59,7 @@ Sou **Analista de Dados** com background em **Ciências da Computação** e expe
 🔹 **ChatGPT Automation for Business Rules**  
 🔹 **Power BI Dashboards – KPIs Operacionais e Comerciais**
 
-*(Posso te ajudar a subir esses projetos e organizar seu portfólio.)*
+
 
 ---
 
