@@ -36,11 +36,21 @@ Sou **Analista de Dados** com background em **Ciências da Computação** e expe
 ---
 
 ## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedromatos100&show_icons=true&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromatos100&layout=compact&theme=dracula)
+<div align="center">
+
+<a href="https://github-readme-stats.vercel.app/api?username=pedromatos100&show_icons=true&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromatos100&show_icons=true&theme=dracula" />
+</a>
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromatos100&layout=compact&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromatos100&layout=compact&theme=dracula" />
+</a>
+
+</div>
 
 ---
+
 
 ## 📁 Projetos em Destaque
 
