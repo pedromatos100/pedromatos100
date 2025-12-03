@@ -32,7 +32,8 @@ Sou **Analista de Dados** com background em **Ciências da Computação** e expe
 <img width="48" height="48" src="https://img.icons8.com/color/48/ms-excel.png" alt="ms-excel"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" alt="microsoft-power-automate-2020"/>
 <img width="48" height="48" src="https://images.icon-icons.com/2699/PNG/512/databricks_logo_icon_170295.png" alt="ícone de Databricks logo" title="ícone de Databricks logo">
-<img width="48" height="48" src="https://pbs.twimg.com/profile_images/940902877270290432/3_92FwKS_400x400.jpg" class="css-9pa8cd">
+<img width="48" height="48" src="https://logowik.com/content/uploads/images/knime1686.logowik.com.webp">
+
 </div>
 
 
