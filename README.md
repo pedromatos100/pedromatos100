@@ -12,7 +12,7 @@ Sou **Analista de Dados** com background em **Ciências da Computação** e expe
 
 ## 🌐 Conecte-se comigo
 <a href="https://www.linkedin.com/in/mmatos-pedro/" target="_blank">
- <img width="96" height="96" src="https://img.icons8.com/color/96/linkedin.png" alt="linkedin"/>
+ <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
 </a>
 
 ---
@@ -25,18 +25,14 @@ Sou **Analista de Dados** com background em **Ciências da Computação** e expe
 <div align="left">
 
 <!-- Linha 1 -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" />
-
-<br/>
-
-<!-- Linha 2 -->
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" />
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/KNIME-FDD32B?style=for-the-badge&logo=knime&logoColor=black" />
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
+<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/ms-excel.png" alt="ms-excel"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" alt="microsoft-power-automate-2020"/>
+<img id="fancybox-img" src="https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png" alt="Databricks Emblem">
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://logowik.com/content/uploads/images/knime1686.logowik.com.webp">
 
 </div>
 
