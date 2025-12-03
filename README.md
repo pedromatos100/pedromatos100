@@ -6,7 +6,7 @@ Sou **Analista de Dados** com background em **Ciências da Computação** e expe
 - 📊 Experiência com **Power BI, DAX, M, SQL (PostgreSQL, Redshift), Python (pandas, matplotlib, sellenium)**
 - 🤖 Estudando **engenharia de dados e modelos preditivos**
 - 💬 Me pergunte sobre: *Análise de Dados, Dashboards, Automação, Processos, Python e SQL*
-- 📫 Contato: **seuemail@dominio.com**
+- 📫 Contato: **pedromatos26@hotmail.com**
 
 ---
 
