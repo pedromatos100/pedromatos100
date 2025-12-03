@@ -12,7 +12,7 @@ Sou **Analista de Dados** com background em **Ciências da Computação** e expe
 
 ## 🌐 Conecte-se comigo
 <a href="https://www.linkedin.com/in/mmatos-pedro/" target="_blank">
- <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
+ <img width="96" height="96" src="https://img.icons8.com/color/96/linkedin.png" alt="linkedin"/>
 </a>
 
 ---
