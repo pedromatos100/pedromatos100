@@ -17,9 +17,6 @@ Sou **Analista de Dados** com background em **Ciências da Computação** e expe
 
 ---
 
-## 🛠️ Ferramentas & Tecnologias
-
-<div style="display: flex; flex-wrap: wrap;">
   
 ## 🛠️ Ferramentas & Tecnologias
 
