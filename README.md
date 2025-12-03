@@ -31,8 +31,8 @@ Sou **Analista de Dados** com background em **Ciências da Computação** e expe
 <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/ms-excel.png" alt="ms-excel"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" alt="microsoft-power-automate-2020"/>
-<img id="fancybox-img" src="https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png" alt="Databricks Emblem">
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://logowik.com/content/uploads/images/knime1686.logowik.com.webp">
+<img width="48" height="48" src="https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png" alt="Databricks Emblem">
+<img width="48" height="48" src="https://logowik.com/content/uploads/images/knime1686.logowik.com.webp">
 
 </div>
 
