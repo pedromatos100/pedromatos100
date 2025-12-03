@@ -3,7 +3,7 @@
 Sou **Analista de Dados** com background em **Ciências da Computação** e experiência prática em **Power BI, SQL, Python e automação de processos**. Atuo no desenvolvimento de pipelines, construção de KPIs, criação de dashboards e otimização de fluxos críticos para tomada de decisão.
 
 - 🔭 Atualmente trabalhando com **análise de dados, ETL e automações**
-- 📊 Experiência com **Power BI, DAX, M, SQL (PostgreSQL, Redshift), Python (pandas, matplotlib, scikit-learn)**
+- 📊 Experiência com **Power BI, DAX, M, SQL (PostgreSQL, Redshift), Python (pandas, matplotlib, sellenium)**
 - 🤖 Estudando **engenharia de dados e modelos preditivos**
 - 💬 Me pergunte sobre: *Análise de Dados, Dashboards, Automação, Processos, Python e SQL*
 - 📫 Contato: **seuemail@dominio.com**
