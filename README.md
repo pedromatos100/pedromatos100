@@ -21,15 +21,36 @@ Sou **Analista de Dados** com background em **Ciências da Computação** e expe
 
 <div style="display: flex; flex-wrap: wrap;">
   
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img height="40" src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg"/>
-<img height="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+## 🛠️ Ferramentas & Tecnologias
+
+<div style="display: flex; flex-wrap: wrap;" align="left">
+
+<!-- Python -->
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+
+<!-- Power BI -->
+<img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"/>
+
+<!-- SQL / PostgreSQL -->
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+
+<!-- Redshift -->
+<img height="50" src="https://www.vectorlogo.zone/logos/amazon_redshift/amazon_redshift-icon.svg"/>
+
+<!-- Excel -->
+<img height="50" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg"/>
+
+<!-- Power Automate -->
+<img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerautomate/microsoft_powerautomate-icon.svg"/>
+
+<!-- Databricks -->
+<img height="50" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg"/>
+
+<!-- KNIME -->
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/04/KNIME_logo.svg"/>
+
+</div>
+
 
 </div>
 
