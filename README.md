@@ -59,13 +59,3 @@ Sou **Analista de Dados** com background em **Ciências da Computação** e expe
 🔹 **ChatGPT Automation for Business Rules**  
 🔹 **Power BI Dashboards – KPIs Operacionais e Comerciais**
 
-
-
----
-
-## 🚀 Sobre mim
-Atuo há anos com análise de dados, automação de processos, criação de KPIs e dashboards estratégicos. Possuo forte vivência com ambientes corporativos e já entreguei projetos que reduziram **100% do tempo operacional** e geraram impactos diretos na tomada de decisão.
-
-Sou apaixonado por dados e por transformar problemas complexos em insights práticos.
-
----
