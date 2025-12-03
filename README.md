@@ -22,33 +22,24 @@ Sou **Analista de Dados** com background em **Ciências da Computação** e expe
 
 ## 🛠️ Ferramentas & Tecnologias
 
-<div style="display: flex; flex-wrap: wrap;" align="left">
+<div align="left">
 
-<!-- Python -->
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<!-- Linha 1 -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" />
 
-<!-- Power BI -->
-<img height="50" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
+<br/>
 
-<!-- PostgreSQL -->
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
-
-<!-- Amazon Redshift -->
-<img height="50" src="https://raw.githubusercontent.com/ThyLeader/Logos/main/amazon-redshift.png"/>
-
-<!-- Excel -->
-<img height="50" src="https://raw.githubusercontent.com/ThyLeader/Logos/main/microsoft-excel.png"/>
-
-<!-- Power Automate -->
-<img height="50" src="https://raw.githubusercontent.com/ThyLeader/Logos/main/power-automate.png"/>
-
-<!-- Databricks -->
-<img height="50" src="https://raw.githubusercontent.com/ThyLeader/Logos/main/databricks.png"/>
-
-<!-- KNIME -->
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/KNIME_logo.svg/512px-KNIME_logo.svg.png"/>
+<!-- Linha 2 -->
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/KNIME-FDD32B?style=for-the-badge&logo=knime&logoColor=black" />
 
 </div>
+
 
 
 
